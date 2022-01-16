@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
         <footer> 
-            copyright 2021, Learning Next
+            copyright 2021, Techies List
         </footer>
     );
 }
